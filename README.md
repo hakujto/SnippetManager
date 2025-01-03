@@ -1,1 +1,3 @@
 # SnippetManager
+
+![SnippetManager](screenshot.png)
